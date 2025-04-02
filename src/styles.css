@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+  background-color: skyblue;
+}
+
+.link {
+  display: flex;
+  gap: 15px;
+  margin: 10px;
+}
